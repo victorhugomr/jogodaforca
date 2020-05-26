@@ -1,0 +1,26 @@
+/*Universidade de Brasilia
+Instituto de Ciencias Exatas
+Departamento de Ciencia da Computacao
+Computacao Basica – 1/2015
+Aluno(a): Victor Hugo Magalhães Rodrigues
+Matricula: 140087711
+Turma: E
+Versão do compilador: Terminal
+Descricao: Jogo da Forca*/
+
+#include <stdio.h>
+
+#ifdef _WIN64
+	#define CLEAR "cls"
+#else
+	#define CLEAR "clear"
+#endif
+
+int main(){
+int i,j,k, pontos,pontos_total;
+char alfabeto[27], string_alvo[21], string_aux[21], string_decifrada[21];
+
+	
+
+return 0;
+}
